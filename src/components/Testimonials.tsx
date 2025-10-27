@@ -19,34 +19,34 @@ const Testimonials = () => {
   const testimonials: Testimonial[] = [
     {
       id: 1,
-      name: "Priya Sharma",
-      location: "Mumbai, India",
+      name: "Priya Iyer",
+      location: "Chennai, Tamil Nadu",
       rating: 5,
-      text: "The mango pickle from Bhoomi Foods is absolutely divine! It tastes exactly like my grandmother used to make. The quality and authenticity are unmatched.",
+      text: "The mango pickle from Bhoomi Foods is absolutely divine! It tastes exactly like my grandmother used to make in our village. The quality and authenticity are unmatched.",
       image: "https://images.unsplash.com/photo-1494790108755-2616b612b786?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&q=80"
     },
     {
       id: 2,
-      name: "Rajesh Kumar",
-      location: "Delhi, India",
+      name: "Rajesh Nair",
+      location: "Kochi, Kerala",
       rating: 5,
-      text: "I've been ordering their spices for months now. The garam masala powder is so aromatic and fresh. It has completely transformed my cooking!",
+      text: "I've been ordering their spices for months now. The garam masala powder is so aromatic and fresh. It has completely transformed my cooking! Perfect for our traditional Kerala dishes.",
       image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&q=80"
     },
     {
       id: 3,
-      name: "Meera Patel",
-      location: "Ahmedabad, India",
+      name: "Meera Krishnan",
+      location: "Bangalore, Karnataka",
       rating: 5,
-      text: "The coconut chutney powder is perfect for my morning idlis. My family loves it! The packaging is also very nice and the delivery is always on time.",
+      text: "The coconut chutney powder is perfect for my morning idlis and dosas. My family loves it! The packaging is also very nice and the delivery is always on time.",
       image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&q=80"
     },
     {
       id: 4,
       name: "Suresh Reddy",
-      location: "Hyderabad, India",
+      location: "Hyderabad, Telangana",
       rating: 5,
-      text: "Authentic South Indian flavors! The sambar powder is exactly what I was looking for. It brings back memories of my childhood. Highly recommended!",
+      text: "Authentic South Indian flavors! The sambar powder is exactly what I was looking for. It brings back memories of my childhood in Andhra Pradesh. Highly recommended!",
       image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&q=80"
     }
   ]

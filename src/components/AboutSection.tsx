@@ -88,13 +88,13 @@ const AboutSection = () => {
             className="relative"
           >
             <div className="relative">
-              <Image
-                src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-                alt="Traditional Indian kitchen with spices"
-                width={600}
-                height={400}
-                className="rounded-2xl shadow-2xl"
-              />
+            <Image
+              src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+              alt="Traditional South Indian kitchen with spices"
+              width={600}
+              height={400}
+              className="rounded-2xl shadow-2xl"
+            />
               
               {/* Decorative Elements */}
               <div className="absolute -top-6 -left-6 w-24 h-24 bg-saffron/20 rounded-full"></div>

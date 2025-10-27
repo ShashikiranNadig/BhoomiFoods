@@ -37,22 +37,22 @@ const AboutPage = () => {
 
   const team = [
     {
-      name: "Priya Sharma",
+      name: "Priya Iyer",
       role: "Founder & CEO",
       image: "https://images.unsplash.com/photo-1494790108755-2616b612b786?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
-      description: "Passionate about preserving traditional Indian cuisine and sharing authentic flavors with the world."
+      description: "Passionate about preserving traditional South Indian cuisine and sharing authentic flavors from Tamil Nadu with the world."
     },
     {
-      name: "Rajesh Kumar",
+      name: "Rajesh Nair",
       role: "Head Chef",
       image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
-      description: "Master chef with 20+ years of experience in traditional Indian cooking and spice blending."
+      description: "Master chef from Kerala with 20+ years of experience in traditional South Indian cooking and spice blending."
     },
     {
-      name: "Meera Patel",
+      name: "Meera Krishnan",
       role: "Quality Manager",
       image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
-      description: "Ensures every product meets our strict quality standards and maintains consistency."
+      description: "Ensures every product meets our strict quality standards and maintains the authentic taste of South Indian cuisine."
     }
   ]
 
@@ -119,7 +119,7 @@ const AboutPage = () => {
             >
               <Image
                 src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-                alt="Traditional Indian kitchen"
+                alt="Traditional South Indian kitchen"
                 width={600}
                 height={400}
                 className="rounded-2xl shadow-2xl"
