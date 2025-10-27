@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Homemade Mango Pickle",
+    "price": 199,
+    "image": "/images/mango-pickle.jpg",
+    "description": "Traditional Karnataka-style mango pickle made with local spices and sun-dried for authentic taste.",
+    "category": "Pickles",
+    "ingredients": ["Raw Mango", "Mustard Seeds", "Fenugreek", "Red Chili Powder", "Turmeric", "Salt", "Oil"],
+    "weight": "500g",
+    "shelfLife": "12 months",
+    "origin": "Karnataka, India"
+  },
+  {
+    "id": 2,
+    "name": "Garam Masala Powder",
+    "price": 149,
+    "image": "/images/garam-masala.jpg",
+    "description": "Aromatic blend of ground spices including cardamom, cinnamon, cloves, and black pepper.",
+    "category": "Spices",
+    "ingredients": ["Cardamom", "Cinnamon", "Cloves", "Black Pepper", "Cumin", "Coriander", "Bay Leaves"],
+    "weight": "100g",
+    "shelfLife": "6 months",
+    "origin": "North India"
+  },
+  {
+    "id": 3,
+    "name": "Coconut Chutney Powder",
+    "price": 129,
+    "image": "/images/coconut-chutney.jpg",
+    "description": "Traditional South Indian coconut chutney powder perfect for idlis and dosas.",
+    "category": "Chutneys",
+    "ingredients": ["Coconut", "Red Chilies", "Urad Dal", "Chana Dal", "Curry Leaves", "Asafoetida"],
+    "weight": "200g",
+    "shelfLife": "3 months",
+    "origin": "Tamil Nadu, India"
+  },
+  {
+    "id": 4,
+    "name": "Turmeric Powder",
+    "price": 89,
+    "image": "/images/turmeric-powder.jpg",
+    "description": "Pure, organic turmeric powder with natural golden color and medicinal properties.",
+    "category": "Spices",
+    "ingredients": ["Organic Turmeric"],
+    "weight": "250g",
+    "shelfLife": "24 months",
+    "origin": "Kerala, India"
+  },
+  {
+    "id": 5,
+    "name": "Lemon Pickle",
+    "price": 179,
+    "image": "/images/lemon-pickle.jpg",
+    "description": "Tangy and spicy lemon pickle made with traditional South Indian recipe.",
+    "category": "Pickles",
+    "ingredients": ["Lemon", "Green Chilies", "Ginger", "Garlic", "Mustard Seeds", "Fenugreek", "Salt"],
+    "weight": "400g",
+    "shelfLife": "12 months",
+    "origin": "Andhra Pradesh, India"
+  },
+  {
+    "id": 6,
+    "name": "Sambar Powder",
+    "price": 159,
+    "image": "/images/sambar-powder.jpg",
+    "description": "Authentic South Indian sambar powder with perfect blend of spices for traditional sambar.",
+    "category": "Spices",
+    "ingredients": ["Coriander Seeds", "Red Chilies", "Chana Dal", "Urad Dal", "Fenugreek", "Cumin", "Turmeric"],
+    "weight": "200g",
+    "shelfLife": "6 months",
+    "origin": "Tamil Nadu, India"
+  },
+  {
+    "id": 7,
+    "name": "Mixed Vegetable Pickle",
+    "price": 229,
+    "image": "/images/mixed-pickle.jpg",
+    "description": "Assorted vegetable pickle with carrots, cauliflower, and green chilies in spicy masala.",
+    "category": "Pickles",
+    "ingredients": ["Carrot", "Cauliflower", "Green Chilies", "Lemon", "Ginger", "Garlic", "Spices"],
+    "weight": "500g",
+    "shelfLife": "12 months",
+    "origin": "Punjab, India"
+  },
+  {
+    "id": 8,
+    "name": "Cumin Powder",
+    "price": 99,
+    "image": "/images/cumin-powder.jpg",
+    "description": "Freshly ground cumin powder with earthy aroma and distinct flavor.",
+    "category": "Spices",
+    "ingredients": ["Cumin Seeds"],
+    "weight": "100g",
+    "shelfLife": "12 months",
+    "origin": "Rajasthan, India"
+  }
+]
